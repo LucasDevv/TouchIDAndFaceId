@@ -1,4 +1,4 @@
-import React, { userState, useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { View, Text, StyleSheet, TouchableHighlight, Alert } from 'react-native';
 import TouchID from 'react-native-touch-id';
 
