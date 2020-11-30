@@ -22,7 +22,7 @@ export default function App(){
     const config = {
       title: 'Authentication Touch ID',
       color: '#FF0000',
-      sensorErrorDescription: 'Touch ID inválido',
+      sensorErrorDescription: 'Touch ID inválido!',
     };
 
     TouchID.authenticate("Login App", config)
